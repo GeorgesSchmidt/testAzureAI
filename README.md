@@ -65,3 +65,6 @@ testAzureAI/
 ├── test_azure_openai.py  # Main client. 
 └── test_integration.py   # Integration tests. 
 
+## CI/CD
+
+[![CI](https://github.com/your-username/testAzureAI/actions/workflows/ci.yml/badge.svg)](https://github.com/your-GeorgesSchmidt/testAzureAI/actions/workflows/ci.yml)
